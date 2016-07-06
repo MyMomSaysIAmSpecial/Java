@@ -1,4 +1,7 @@
-import java.util.ArrayList;
+/*
+Fast start, and simply about basics:
+https://learnxinyminutes.com/docs/java/
+*/
 
 public class Main {
 
