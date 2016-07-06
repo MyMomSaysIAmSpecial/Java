@@ -2,6 +2,11 @@ public class Book {
     private String name;
     private int year;
 
+    /**
+     * @param name Name of the book
+     * @param year Year when book was written
+     */
+
     public Book(String name, int year) {
         this.name = name;
         this.year = year;
